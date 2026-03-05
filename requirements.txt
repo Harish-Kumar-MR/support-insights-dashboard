@@ -1,0 +1,6 @@
+﻿streamlit==1.37.1
+pandas==2.2.2
+numpy==2.0.1
+faker==26.0.0
+textblob==0.18.0.post0
+matplotlib==3.8.4
